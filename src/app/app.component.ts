@@ -15,5 +15,9 @@ import { RouterLink } from '@angular/router';
   styleUrls: ['./app.component.css'] 
 })
 export class AppComponent {
+  constructor(){
+    
+  }
+
   title = 'tour of heroes app';
 }
