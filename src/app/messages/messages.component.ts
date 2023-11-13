@@ -15,5 +15,4 @@ export class MessagesComponent {
   constructor(public messageService: MessageService){
 
   }
-  
 }
